@@ -8,3 +8,8 @@ node_modules/
 *.pt
 *.safetensors
 *.gguf
+
+backups/
+*.zip
+*.tar.gz
+*.sql
