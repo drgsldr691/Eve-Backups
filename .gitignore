@@ -1,0 +1,10 @@
+*.log
+*.tmp
+node_modules/
+.env.local
+
+# prevent huge files
+*.bin
+*.pt
+*.safetensors
+*.gguf
